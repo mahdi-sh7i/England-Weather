@@ -4,9 +4,9 @@ This repository contains a Jupyter Notebook that analyzes weather data in Englan
 
 ## Previwe
 
+![8](https://github.com/user-attachments/assets/b6bee633-b81c-49e5-ad58-b2d9156c7243)
 
-
-
+![9](https://github.com/user-attachments/assets/c74df6ec-c702-4327-8384-4db2c808dc73)
 
 ## 📁 File Structure
 
